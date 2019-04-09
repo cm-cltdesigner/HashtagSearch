@@ -1,0 +1,45 @@
+body {
+  background: url("bkgd.jpg");
+  text-align: center;
+  background-size: 100%;
+  background-repeat: repeat;
+}
+.btn {
+  float: center;
+  margin: 3px;
+  background-color: gray;
+  border-color: black;
+}
+.gifDiv {
+  float: right;
+  margin: 2px;
+}
+.container {
+  background-color: #fff;
+  text-align: center;
+  padding: 20px;
+  width: 100%;
+}
+form {
+  position: center;
+}
+img {
+  position: center;
+  height: 145px; width: 145px;
+}
+.jumbotron {
+  background-color: transparent;
+}
+.jumbotron .h1,
+.jumbotron h1 {
+  text-align: center;
+}
+#copyright {
+  font-size: 12px;
+}
+div#footer {
+  clear: both;
+  margin-top: 40px;
+  position: center;
+  text-align: center;
+}
